@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\P2_1_714230070\P2_1_714230070\bin\Debug\P2_1_714230070.exe.config
+C:\Users\LENOVO\source\repos\P2_1_714230070\P2_1_714230070\bin\Debug\P2_1_714230070.exe
+C:\Users\LENOVO\source\repos\P2_1_714230070\P2_1_714230070\bin\Debug\P2_1_714230070.pdb
+C:\Users\LENOVO\source\repos\P2_1_714230070\P2_1_714230070\obj\Debug\P2_1_714230070.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\P2_1_714230070\P2_1_714230070\obj\Debug\P2_1_714230070.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\P2_1_714230070\P2_1_714230070\obj\Debug\P2_1_714230070.exe
+C:\Users\LENOVO\source\repos\P2_1_714230070\P2_1_714230070\obj\Debug\P2_1_714230070.pdb
