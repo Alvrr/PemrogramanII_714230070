@@ -1,0 +1,7 @@
+D:\TUGAS KULIAH\PemrogramanII_714230070\PemrogramanII_714230070\pertemuan03\tugas\P3_2_714230070\P3_2_714230070\bin\Debug\P3_2_714230070.exe.config
+D:\TUGAS KULIAH\PemrogramanII_714230070\PemrogramanII_714230070\pertemuan03\tugas\P3_2_714230070\P3_2_714230070\bin\Debug\P3_2_714230070.exe
+D:\TUGAS KULIAH\PemrogramanII_714230070\PemrogramanII_714230070\pertemuan03\tugas\P3_2_714230070\P3_2_714230070\bin\Debug\P3_2_714230070.pdb
+D:\TUGAS KULIAH\PemrogramanII_714230070\PemrogramanII_714230070\pertemuan03\tugas\P3_2_714230070\P3_2_714230070\obj\Debug\P3_2_714230070.csproj.AssemblyReference.cache
+D:\TUGAS KULIAH\PemrogramanII_714230070\PemrogramanII_714230070\pertemuan03\tugas\P3_2_714230070\P3_2_714230070\obj\Debug\P3_2_714230070.csproj.CoreCompileInputs.cache
+D:\TUGAS KULIAH\PemrogramanII_714230070\PemrogramanII_714230070\pertemuan03\tugas\P3_2_714230070\P3_2_714230070\obj\Debug\P3_2_714230070.exe
+D:\TUGAS KULIAH\PemrogramanII_714230070\PemrogramanII_714230070\pertemuan03\tugas\P3_2_714230070\P3_2_714230070\obj\Debug\P3_2_714230070.pdb
