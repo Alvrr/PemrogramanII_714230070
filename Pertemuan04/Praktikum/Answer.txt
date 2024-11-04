@@ -1,0 +1,13 @@
+BAGIAN I
+14. : Pesan kesalahan muncul karena kelas Product_NPM mungkin belum diimplementasikan atau ada atribut dan metode yang tidak lengkap dalam kelas tersebut.
+
+19. Output di layar menunjukkan teks “Book” karena Title diatur untuk mencetak kata tersebut di dalam metode Display.
+
+24. Kata yang muncul di layar diambil dari nilai properti Title pada objek Product_NPM. Ini terjadi karena properti Title diatur dengan nilai tertentu sebelum dipanggil oleh metode Display().
+
+BAGIAN II
+8. Tipe dan judul buku tidak muncul karena kelas Product_NPM telah dijadikan kelas abstrak, yang berarti tidak dapat diinstansiasi secara langsung.
+
+12. Tipe dan judul buku kini tampil di output karena kelas Book_NPM telah mengimplementasikan metode Display() yang menampilkan kedua nilai tersebut.
+
+19. Objek product2 tidak dibuat seperti product1 karena terdapat perbedaan dalam cara instansiasi atau pengaturan atribut pada objek tersebut.​​​

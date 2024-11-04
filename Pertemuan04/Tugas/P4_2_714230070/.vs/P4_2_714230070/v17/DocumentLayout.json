@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TUGAS KULIAH\\PemrogramanII_714230070\\PemrogramanII_714230070\\Pertemuan04\\Tugas\\P4_2_714230070\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6CF583-B696-4041-8AAD-0AB8315C7709}|P4_2_714230070\\P4_2_714230070.csproj|d:\\tugas kuliah\\pemrogramanii_714230070\\pemrogramanii_714230070\\pertemuan04\\tugas\\p4_2_714230070\\p4_2_714230070\\fitnessactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6CF583-B696-4041-8AAD-0AB8315C7709}|P4_2_714230070\\P4_2_714230070.csproj|solutionrelative:p4_2_714230070\\fitnessactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6CF583-B696-4041-8AAD-0AB8315C7709}|P4_2_714230070\\P4_2_714230070.csproj|d:\\tugas kuliah\\pemrogramanii_714230070\\pemrogramanii_714230070\\pertemuan04\\tugas\\p4_2_714230070\\p4_2_714230070\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6CF583-B696-4041-8AAD-0AB8315C7709}|P4_2_714230070\\P4_2_714230070.csproj|solutionrelative:p4_2_714230070\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FitnessActivity.cs",
+              "DocumentMoniker": "D:\\TUGAS KULIAH\\PemrogramanII_714230070\\PemrogramanII_714230070\\Pertemuan04\\Tugas\\P4_2_714230070\\P4_2_714230070\\FitnessActivity.cs",
+              "RelativeDocumentMoniker": "P4_2_714230070\\FitnessActivity.cs",
+              "ToolTip": "D:\\TUGAS KULIAH\\PemrogramanII_714230070\\PemrogramanII_714230070\\Pertemuan04\\Tugas\\P4_2_714230070\\P4_2_714230070\\FitnessActivity.cs",
+              "RelativeToolTip": "P4_2_714230070\\FitnessActivity.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:56:26.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TUGAS KULIAH\\PemrogramanII_714230070\\PemrogramanII_714230070\\Pertemuan04\\Tugas\\P4_2_714230070\\P4_2_714230070\\Program.cs",
+              "RelativeDocumentMoniker": "P4_2_714230070\\Program.cs",
+              "ToolTip": "D:\\TUGAS KULIAH\\PemrogramanII_714230070\\PemrogramanII_714230070\\Pertemuan04\\Tugas\\P4_2_714230070\\P4_2_714230070\\Program.cs",
+              "RelativeToolTip": "P4_2_714230070\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:36:35.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
