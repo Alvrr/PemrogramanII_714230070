@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TUGAS KULIAH\\PemrogramanII_714230070\\PemrogramanII_714230070\\Pertemuan05\\Praktikum\\P5_1_714230070\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B973996-0CC5-413A-9FC1-C2B896C7BDCB}|P5_1_714230070\\P5_1_714230070.csproj|d:\\tugas kuliah\\pemrogramanii_714230070\\pemrogramanii_714230070\\pertemuan05\\praktikum\\p5_1_714230070\\p5_1_714230070\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B973996-0CC5-413A-9FC1-C2B896C7BDCB}|P5_1_714230070\\P5_1_714230070.csproj|solutionrelative:p5_1_714230070\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B973996-0CC5-413A-9FC1-C2B896C7BDCB}|P5_1_714230070\\P5_1_714230070.csproj|d:\\tugas kuliah\\pemrogramanii_714230070\\pemrogramanii_714230070\\pertemuan05\\praktikum\\p5_1_714230070\\p5_1_714230070\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B973996-0CC5-413A-9FC1-C2B896C7BDCB}|P5_1_714230070\\P5_1_714230070.csproj|solutionrelative:p5_1_714230070\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\TUGAS KULIAH\\PemrogramanII_714230070\\PemrogramanII_714230070\\Pertemuan05\\Praktikum\\P5_1_714230070\\P5_1_714230070\\Form1.cs",
+              "RelativeDocumentMoniker": "P5_1_714230070\\Form1.cs",
+              "ToolTip": "D:\\TUGAS KULIAH\\PemrogramanII_714230070\\PemrogramanII_714230070\\Pertemuan05\\Praktikum\\P5_1_714230070\\P5_1_714230070\\Form1.cs",
+              "RelativeToolTip": "P5_1_714230070\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA3wBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:36:59.991Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\TUGAS KULIAH\\PemrogramanII_714230070\\PemrogramanII_714230070\\Pertemuan05\\Praktikum\\P5_1_714230070\\P5_1_714230070\\Form1.cs",
+              "RelativeDocumentMoniker": "P5_1_714230070\\Form1.cs",
+              "ToolTip": "D:\\TUGAS KULIAH\\PemrogramanII_714230070\\PemrogramanII_714230070\\Pertemuan05\\Praktikum\\P5_1_714230070\\P5_1_714230070\\Form1.cs [Design]",
+              "RelativeToolTip": "P5_1_714230070\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:30:25.398Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
