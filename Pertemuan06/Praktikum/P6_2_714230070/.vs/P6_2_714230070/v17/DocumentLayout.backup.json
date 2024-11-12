@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\P6_2_714230070\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E09E92F-219B-4172-A31B-4CDB31AC80A2}|P6_2_714230070\\P6_2_714230070.csproj|c:\\users\\lenovo\\source\\repos\\p6_2_714230070\\p6_2_714230070\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E09E92F-219B-4172-A31B-4CDB31AC80A2}|P6_2_714230070\\P6_2_714230070.csproj|solutionrelative:p6_2_714230070\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E09E92F-219B-4172-A31B-4CDB31AC80A2}|P6_2_714230070\\P6_2_714230070.csproj|c:\\users\\lenovo\\source\\repos\\p6_2_714230070\\p6_2_714230070\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E09E92F-219B-4172-A31B-4CDB31AC80A2}|P6_2_714230070\\P6_2_714230070.csproj|solutionrelative:p6_2_714230070\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\P6_2_714230070\\P6_2_714230070\\Form1.cs",
+              "RelativeDocumentMoniker": "P6_2_714230070\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\P6_2_714230070\\P6_2_714230070\\Form1.cs*",
+              "RelativeToolTip": "P6_2_714230070\\Form1.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:55:28.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\P6_2_714230070\\P6_2_714230070\\Form1.cs",
+              "RelativeDocumentMoniker": "P6_2_714230070\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\P6_2_714230070\\P6_2_714230070\\Form1.cs [Design]*",
+              "RelativeToolTip": "P6_2_714230070\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:52:46.066Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
