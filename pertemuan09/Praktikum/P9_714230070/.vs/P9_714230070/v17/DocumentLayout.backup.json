@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{0814C607-7450-4535-82A5-0B979B9D5B1F}|P9_714230070\\P9_714230070.csproj|solutionrelative:p9_714230070\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0814C607-7450-4535-82A5-0B979B9D5B1F}|P9_714230070\\P9_714230070.csproj|d:\\tugas kuliah\\pemrogramanii_714230070\\pemrogramanii_714230070\\pertemuan09\\praktikum\\p9_714230070\\p9_714230070\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0814C607-7450-4535-82A5-0B979B9D5B1F}|P9_714230070\\P9_714230070.csproj|D:\\TUGAS KULIAH\\PemrogramanII_714230070\\PemrogramanII_714230070\\pertemuan09\\Praktikum\\P9_714230070\\p9_714230070\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0814C607-7450-4535-82A5-0B979B9D5B1F}|P9_714230070\\P9_714230070.csproj|solutionrelative:p9_714230070\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0814C607-7450-4535-82A5-0B979B9D5B1F}|P9_714230070\\P9_714230070.csproj|d:\\tugas kuliah\\pemrogramanii_714230070\\pemrogramanii_714230070\\pertemuan09\\praktikum\\p9_714230070\\p9_714230070\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0814C607-7450-4535-82A5-0B979B9D5B1F}|P9_714230070\\P9_714230070.csproj|D:\\TUGAS KULIAH\\PemrogramanII_714230070\\PemrogramanII_714230070\\pertemuan09\\Praktikum\\P9_714230070\\p9_714230070\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0814C607-7450-4535-82A5-0B979B9D5B1F}|P9_714230070\\P9_714230070.csproj|solutionrelative:p9_714230070\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -47,8 +47,7 @@
               "RelativeToolTip": "P9_714230070\\Koneksi.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAqwAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T06:57:45.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T06:57:45.917Z"
             },
             {
               "$type": "Document",
