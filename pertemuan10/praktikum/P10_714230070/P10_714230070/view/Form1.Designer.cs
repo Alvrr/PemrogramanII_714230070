@@ -48,10 +48,14 @@
             this.btnUbah = new System.Windows.Forms.Button();
             this.btnSimpan = new System.Windows.Forms.Button();
             this.btnRefresh = new System.Windows.Forms.Button();
+            this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.Cari = new System.Windows.Forms.Label();
+            this.textboxCariData = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.DataMahasiswa)).BeginInit();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
+            this.groupBox4.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -210,9 +214,9 @@
             this.groupBox3.Controls.Add(this.btnUbah);
             this.groupBox3.Controls.Add(this.btnSimpan);
             this.groupBox3.Controls.Add(this.btnRefresh);
-            this.groupBox3.Location = new System.Drawing.Point(535, 302);
+            this.groupBox3.Location = new System.Drawing.Point(535, 307);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(314, 243);
+            this.groupBox3.Size = new System.Drawing.Size(314, 238);
             this.groupBox3.TabIndex = 2;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Tombol Action";
@@ -257,11 +261,41 @@
             this.btnRefresh.UseVisualStyleBackColor = true;
             this.btnRefresh.Click += new System.EventHandler(this.btnRefresh_Click);
             // 
+            // groupBox4
+            // 
+            this.groupBox4.Controls.Add(this.textboxCariData);
+            this.groupBox4.Controls.Add(this.Cari);
+            this.groupBox4.Location = new System.Drawing.Point(536, 235);
+            this.groupBox4.Name = "groupBox4";
+            this.groupBox4.Size = new System.Drawing.Size(312, 66);
+            this.groupBox4.TabIndex = 3;
+            this.groupBox4.TabStop = false;
+            this.groupBox4.Text = "FormPencarian";
+            this.groupBox4.Enter += new System.EventHandler(this.groupBox4_Enter);
+            // 
+            // Cari
+            // 
+            this.Cari.AutoSize = true;
+            this.Cari.Location = new System.Drawing.Point(6, 34);
+            this.Cari.Name = "Cari";
+            this.Cari.Size = new System.Drawing.Size(72, 20);
+            this.Cari.TabIndex = 0;
+            this.Cari.Text = "CariData";
+            // 
+            // textboxCariData
+            // 
+            this.textboxCariData.Location = new System.Drawing.Point(80, 31);
+            this.textboxCariData.Name = "textboxCariData";
+            this.textboxCariData.Size = new System.Drawing.Size(226, 26);
+            this.textboxCariData.TabIndex = 1;
+            this.textboxCariData.TextChanged += new System.EventHandler(this.textboxCariData_TextChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(852, 550);
+            this.ClientSize = new System.Drawing.Size(854, 550);
+            this.Controls.Add(this.groupBox4);
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
@@ -273,6 +307,8 @@
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             this.groupBox3.ResumeLayout(false);
+            this.groupBox4.ResumeLayout(false);
+            this.groupBox4.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -299,6 +335,9 @@
         private System.Windows.Forms.Button btnUbah;
         private System.Windows.Forms.Button btnSimpan;
         private System.Windows.Forms.Button btnRefresh;
+        private System.Windows.Forms.GroupBox groupBox4;
+        private System.Windows.Forms.TextBox textboxCariData;
+        private System.Windows.Forms.Label Cari;
     }
 }
 

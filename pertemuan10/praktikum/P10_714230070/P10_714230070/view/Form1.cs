@@ -138,5 +138,15 @@ namespace P10_714230070
                 Tampil();
             }
         }
+
+        private void groupBox4_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textboxCariData_TextChanged(object sender, EventArgs e)
+        {
+            DataMahasiswa.DataSource = koneksi.ShowData("SELECT * FROM t_mahasiswa WHERE npm LIKE '%' '" + textboxCariData.Text + "' '%' OR nama LIKE '%' '" + textboxCariData.Text + " ' '%'");
+        }
     }
 }
